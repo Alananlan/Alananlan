@@ -1,14 +1,14 @@
 ## Hi, my name is Alan 👋
 <div align="left">
   <a href="https://www.linkedin.com/in/alan-ly-a6b1091b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
 <table width="960px">
 <tr>
   <td width="480px">
-    
+    <img src="https://github.com/Alananlan/example-project/blob/main/6338e311476433.560f84e30ba2a.jpg" />
   </td>
   <td>
   <img src="https://media.giphy.com/media/zkRQ24mPZ1HvHj9pZ6/giphy.gif" width=400 height=400 />
