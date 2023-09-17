@@ -7,20 +7,25 @@
 
 <table width="960px">
 <tr>
+  <td width="480px">
+    
+  </td>
   <td>
   <img src="https://media.giphy.com/media/zkRQ24mPZ1HvHj9pZ6/giphy.gif" width=400 height=400 />
   </td>
-  <td>
-    
-  </td>
 </tr>
+</td>
+</table>
 
-<a href="https://github.com/alananlan/github-readme-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alananlan&theme=aura&background=000000" />
-</a>
-<a href="https://github.com/alananlan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alananlan&layout=donut&langs_count=8&card_width=320&theme=aura&background=000000" />
-</a>
+<div>
+  <a href="https://github.com/alananlan/github-readme-stats">
+    <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alananlan&theme=aura&background=15141B" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/alananlan/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alananlan&layout=donut&langs_count=8&card_width=320&theme=aura&background=000000" />
+  </a>
+</div>
+
 
 
 <!--
